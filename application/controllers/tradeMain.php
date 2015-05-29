@@ -4,6 +4,7 @@
 
 // github test //
 // v1.0.1 created branch 1
+// v1.0.1 에서 한번더 작업
 
 class TradeMain extends CI_Controller {
     
